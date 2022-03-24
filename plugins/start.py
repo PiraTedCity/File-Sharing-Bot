@@ -91,9 +91,15 @@ async def start_command(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton("⍟ About Me", callback_data = "about"),
-                    InlineKeyboardButton("⤬ Close", callback_data = "close")
+                    InlineKeyboardButton("Close", callback_data = "close")
                 ],[
-                    InlineKeyboardButton("Website", url=f'https://piratedcityofficial.blogspot.com')
+                    InlineKeyboardButton("☍ Join Backup", url=f'https://t.me/PiraTedCityPC')
+                ],[
+                    InlineKeyboardButton("☍ Discussion Group", url=f'https://t.me/PiraTedCityGroup')
+                ],[
+                    InlineKeyboardButton("☍ Mod Monster", url=f'https://t.me/Mod_Monster')
+                ],[
+                    InlineKeyboardButton("☍ Disney+ PiratedCity", url=f'https://t.me/+Hz2fJMsdwEswNTA1')
                 ]
             ]
         )
