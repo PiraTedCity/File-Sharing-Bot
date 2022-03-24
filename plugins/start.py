@@ -92,6 +92,8 @@ async def start_command(client: Client, message: Message):
                 [
                     InlineKeyboardButton("⍟ About Me", callback_data = "about"),
                     InlineKeyboardButton("⤬ Close", callback_data = "close")
+                ],[
+                    InlineKeyboardButton("Website", url=f'https://piratedcityofficial.blogspot.com')
                 ]
             ]
         )
