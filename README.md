@@ -19,7 +19,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@MarianaHubGroup ](https://www.telegram.dog/@MarianaHubGroup)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@PrimarchWeb ](https://www.telegram.dog/@PrimarchWeb)**
 
 ### Features
 - Fully customisable.
